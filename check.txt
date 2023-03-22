@@ -1,0 +1,4 @@
+echo 'how are you'
+echo 'i am fine'
+ touch file_ka_naam.txt
+ kuch bhei likh do check hi to krna hai kya ja rha hai.

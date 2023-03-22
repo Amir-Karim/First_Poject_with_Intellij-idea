@@ -1,0 +1,4 @@
+echo " HOw are you amir "
+echo " how do you feel whiling coding ";
+ok le,ts try and start dig in coding .
+
